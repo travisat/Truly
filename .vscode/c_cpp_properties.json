@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Program Files\\LLVM\\bin\\clang.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "clang-x64",
+            "includePath": [
+                "C:\\msys64\\usr\\include/**",
+                "C:\\msys64\\mingw64\\include/**",
+                "C:\\Users\\travi_000\\Rack-SDK\\include/**",
+                "C:\\Users\\travi_000\\Rack-SDK\\dep\\include/**",
+                "C:\\msys64\\mingw64\\include\\c++\\10.1.0"
+            ]
+        }
+    ],
+    "version": 4
+}
