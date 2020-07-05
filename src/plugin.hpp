@@ -11,3 +11,4 @@ extern Plugin* pluginInstance;
 // extern Model* modelMyModule;
 extern Model* modelDasBut;
 extern Model* modelDasButPoly;
+extern Model* modelDasBut8;
