@@ -26,7 +26,16 @@
       "name": "DasButPoly",
       "description": "Push me harder",
       "tags": [
-        "controller", "polyphonic"
+        "controller",
+        "polyphonic"
+      ]
+    },
+    {
+      "slug": "DasBut8",
+      "name": "DasBut8",
+      "description": "Hold on to your but",
+      "tags": [
+        "controller"
       ]
     }
   ]
