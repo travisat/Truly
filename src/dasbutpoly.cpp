@@ -92,7 +92,9 @@ struct DasButPoly : Module {
 			voltages[i] = params[i].getValue() * 10.F;
 		}
 
-		outputs[OUTPOLY_OUTPUT].setChannels(15);
+		//this shouldn't give me a warning while compiling but it does
+		//seems to work though
+		outputs[OUTPOLY_OUTPUT].setChannels(16);
 		outputs[OUTPOLY_OUTPUT].writeVoltages(voltages);
 	}
 };
