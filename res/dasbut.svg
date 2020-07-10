@@ -5,10 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="dasbut.svg"
+   sodipodi:docname="DasBut.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
    version="1.1"
@@ -16,29 +15,7 @@
    height="128.5mm"
    width="20.32mm">
   <defs
-     id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient866">
-      <stop
-         style="stop-color:#b3a3a3;stop-opacity:1"
-         offset="0"
-         id="stop862" />
-      <stop
-         style="stop-color:#585858;stop-opacity:1"
-         offset="1"
-         id="stop864" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient866"
-       id="linearGradient868"
-       x1="-13.247176"
-       y1="32.979465"
-       x2="39.179836"
-       y2="101.40046"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
@@ -47,9 +24,9 @@
      inkscape:window-width="1920"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="282.63143"
+     inkscape:cy="136.84823"
      inkscape:cx="18.83181"
      inkscape:zoom="1.979899"
      inkscape:pageshadow="2"
@@ -69,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,12 +56,12 @@
      inkscape:label="Layer 1"
      style="display:inline">
     <rect
-       y="0.41243401"
-       x="0.41243494"
-       height="127.67513"
-       width="19.495132"
+       y="0.11582947"
+       x="0.11583138"
+       height="128.26834"
+       width="20.088337"
        id="rect839"
-       style="opacity:0.998;fill:#000000;stroke:url(#linearGradient868);stroke-width:0.325;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:1;fill:#000000;stroke:#b3a3a3;stroke-width:0.231663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
   </g>
   <g
      inkscape:label="Layer 2"

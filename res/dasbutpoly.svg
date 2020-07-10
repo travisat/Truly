@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="40.639999mm"
@@ -14,32 +13,9 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="dasbutpoly.svg">
+   sodipodi:docname="DasButPoly.svg">
   <defs
-     id="defs2">
-    <linearGradient
-       id="linearGradient866"
-       inkscape:collect="always">
-      <stop
-         id="stop862"
-         offset="0"
-         style="stop-color:#b3a3a3;stop-opacity:1" />
-      <stop
-         id="stop864"
-         offset="1"
-         style="stop-color:#585858;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(2.0627449,0,0,0.9988916,-0.61749056,-0.17871937)"
-       gradientUnits="userSpaceOnUse"
-       y2="101.40046"
-       x2="39.179836"
-       y1="32.979465"
-       x1="-13.247176"
-       id="linearGradient868"
-       xlink:href="#linearGradient866"
-       inkscape:collect="always" />
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      inkscape:pagecheckerboard="false"
      showborder="false"
@@ -51,15 +27,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="125.12519"
+     inkscape:cx="88.696619"
      inkscape:cy="228.63861"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -70,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,12 +56,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.998;fill:#000000;stroke:url(#linearGradient868);stroke-width:0.466515;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:#000000;stroke:#b3a3a3;stroke-width:0.368597;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect839"
-       width="40.213486"
-       height="127.53362"
-       x="0.2332575"
-       y="0.2332575" />
+       width="40.271404"
+       height="128.13141"
+       x="0.18429756"
+       y="0.18429565" />
   </g>
   <g
      style="display:inline"

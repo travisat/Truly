@@ -44,8 +44,8 @@ struct DasBut : Module {
 struct DasButton : SvgSwitch {
 	DasButton() {
 		momentary = true;
-		addFrame(APP->window->loadSvg(asset::plugin(pluginInstance, "res/button_up.svg")));
-		addFrame(APP->window->loadSvg(asset::plugin(pluginInstance, "res/button_down.svg")));
+		addFrame(APP->window->loadSvg(asset::plugin(pluginInstance, "res/ButtonUp.svg")));
+		addFrame(APP->window->loadSvg(asset::plugin(pluginInstance, "res/ButtonDown.svg")));
 	}
 };
 
